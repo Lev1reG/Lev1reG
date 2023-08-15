@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=rciyweastua61vnf0yabjx0wv&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=rciyweastua61vnf0yabjx0wv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-  </a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Deren Tanaphan</h1>
 <h3 align="center">Information Engineering Student | Cyber Security Enthusiast</h3>
 
@@ -29,3 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deren21&show_icons=true&locale=en" alt="deren21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deren21&" alt="deren21" /></p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=rciyweastua61vnf0yabjx0wv&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=rciyweastua61vnf0yabjx0wv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+  </a>
+</p>
