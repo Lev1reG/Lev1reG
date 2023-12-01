@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deren21&label=Profile%20views&color=0e75b6&style=flat" alt="deren21" /> </p>
 
-- 🌱 Learn anything related to **IT Technology**
+- 🌱 Learn anything related to **IT & Computer**
 
 - 👀 I'm interested in **Capture the Flag**
 
