@@ -5,7 +5,7 @@
 
 - 🌱 Learn anything related to **IT & Computer**
 
-- 🧑‍💻 Tech Boy
+- 🧑‍💻 Like to **Code**
 
 - 👀 Currently interested in **Web Development**
 
