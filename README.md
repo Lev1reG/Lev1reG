@@ -5,9 +5,12 @@
 
 - 🌱 Learn anything related to **IT & Computer**
 
-- 👀 I'm interested in **Capture the Flag**
+- 🧑‍💻 Like to Code
+
+- 👀 Currently interested in **Web Development**
 
 - 📫 How to reach me **derentanaphan@mail.ugm.ac.id**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
