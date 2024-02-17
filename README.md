@@ -7,7 +7,7 @@
 
 - 🧑‍💻 Like to **Code**
 
-- 👀 Currently interested in **Web Development**
+- 👀 Currently interested in **Embedded Systems**
 
 - 📫 How to reach me **derentanaphan@mail.ugm.ac.id**
 
