@@ -5,7 +5,7 @@
 
 - 🌱 Learn anything related to **IT & Computer**
 
-- 🧑‍💻 Like to **Code**
+- 🧑‍💻 Soon to be a **Penetration Tester**
 
 - 👀 Currently interested in **Embedded System**, **Computer Graphics**, & **Web Development**
 
