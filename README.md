@@ -5,9 +5,9 @@
 
 - 🌱 Learn anything related to **IT & Computer**
 
-- 🧑‍💻 Soon to be a **Penetration Tester**
+- 🧑‍💻 Soon to be a **Security Engineer**
 
-- 👀 Currently interested in **Embedded System**, **Computer Graphics**, & **Web Development**
+- 👀 Currently learning about **Web Security**, **Reverse Engineering**, & **Binary Exploitation**
 
 - 📫 How to reach me **derentanaphan@mail.ugm.ac.id**
 
