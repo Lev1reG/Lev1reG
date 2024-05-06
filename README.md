@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lev1reG&show_icons=true&locale=en" alt="Lev1reG" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deren21&" alt="Lev1reG" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lev1reG&" alt="Lev1reG" /></p>
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=rciyweastua61vnf0yabjx0wv&redirect=true">
