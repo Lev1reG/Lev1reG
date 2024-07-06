@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **derentanaphan@mail.ugm.ac.id**
 
+- </> Full Stack Developer
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
