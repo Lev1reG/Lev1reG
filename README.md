@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deren Tanaphan</h1>
-<h3 align="center">Information Engineering Student | Cyber Security Enthusiast</h3>
+<h3 align="center">Information Engineering Student | Fullstack Developer | Cyber Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deren21&label=Profile%20views&color=0e75b6&style=flat" alt="deren21" /> </p>
 
 - 🌱 Learn anything related to **IT & Computer**
 
-- 🧑‍💻 Soon to be a **Security Engineer**
-
-- 👀 Currently learning about **Web Security**, **Reverse Engineering**, & **Binary Exploitation**
+- 👀 Currently learning about **Web Security** & **Backend Side of Application**
 
 - 📫 How to reach me **derentanaphan@mail.ugm.ac.id**
 
