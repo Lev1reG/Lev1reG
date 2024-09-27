@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deren21&label=Profile%20views&color=0e75b6&style=flat" alt="deren21" /> </p>
 
-- 🌱 Learn anything related to **IT & Computer**
+- 🌱 **Currently learning**: Web Security & Backend Development
 
-- 👀 Currently learning about **Web Security** & **Backend Side of Application**
+- 👀 **Interests**: Full Stack Development, Application Security, UAV Technology
 
-- 📫 How to reach me **derentanaphan@mail.ugm.ac.id**
-
-- </> Full Stack Developer
+- 📫 **How to reach me**: derentanaphan@mail.ugm.ac.id
 
 
 <h3 align="left">Connect with me:</h3>
