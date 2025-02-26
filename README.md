@@ -5,7 +5,7 @@
 
 - 🌱 **Currently learning**: Web Security & Backend Development
 
-- 👀 **Interests**: Full Stack Development, Application Security, UAV Technology
+- 👀 **Interests**: Full Stack Development, Application Security
 
 - 📫 **How to reach me**: derentanaphan@mail.ugm.ac.id
 
