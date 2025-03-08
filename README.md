@@ -1,29 +1,57 @@
-<h1 align="center">Hi 👋, I'm Deren Tanaphan</h1>
-<h3 align="center">Information Engineering Student | Fullstack Developer | Cyber Security Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deren21&label=Profile%20views&color=0e75b6&style=flat" alt="deren21" /> </p>
-
-- 🌱 **Currently learning**: Web Security & Backend Development
-
-- 👀 **Interests**: Full Stack Development, Application Security
-
-- 📫 **How to reach me**: derentanaphan@mail.ugm.ac.id
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/derentanaphan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derentanaphan" height="30" width="40" /></a>
-<a href="https://instagram.com/derentanaphan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="derentanaphan_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/2X/9/9f76ef5e791e27deaaafbca2a3bea35d63e165c8.gif" alt="Rust"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lev1reG&show_icons=true&locale=en&layout=compact" alt="Lev1reG" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lev1reG&show_icons=true&locale=en" alt="Lev1reG" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lev1reG&" alt="Lev1reG" /></p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=rciyweastua61vnf0yabjx0wv&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=rciyweastua61vnf0yabjx0wv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Deren+Tanaphan;Fullstack+Developer+%F0%9F%9A%80;Backend+%7C+Frontend+%7C+DevOps;Building+scalable+and+secure+apps;Passionate+about+Cyber+Security;Love+coding+with+Go+%26+Rust;Web+Security+%26+Cloud+Computing;Always+learning+new+tech!+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lev1reG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Learning **Backend Development with Go & Rust**, Web Security  
+- 👀 Interests: **Full Stack Development, Application Security**  
+- 📫 Reach me at **[derentanaphan@mail.ugm.ac.id](mailto:derentanaphan@mail.ugm.ac.id)**  
+
+---
+
+## 🛠 Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lev1reG&show_icons=true&hide_border=true&theme=graywhite" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lev1reG&hide_border=true&theme=graywhite" width="400"/>
+</p>
+
+---
+
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/derentanaphan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/derentanaphan_)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/450199309447856139)
