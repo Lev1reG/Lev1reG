@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🌱 Learning **Backend Development with Go & Rust**, Web Security  
-- 👀 Interests: **Full Stack Development, Application Security**  
+- 👀 Interests: **Software Engineering, Application Security, Computer Vision**  
 - 📫 Reach me at **[derentanaphan@mail.ugm.ac.id](mailto:derentanaphan@mail.ugm.ac.id)**  
 
 ---
