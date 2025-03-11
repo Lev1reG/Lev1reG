@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lev1reG&show_icons=true&hide_border=true&theme=graywhite" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lev1reG&hide_border=true&theme=graywhite" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lev1reG&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-oeh9.vercel.app?user=Lev1reG&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
