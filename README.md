@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lev1reG" />
-  <img src="https://github-readme-streak-stats-oeh9.vercel.app?user=Lev1reG" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lev1reG" alt="GitHub Streak" />
 </p>
 
 ---
