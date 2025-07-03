@@ -14,11 +14,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 Full Stack Developer with a growing passion for **Backend Development** and **DevOps**
-- 🌱 Currently exploring **blockchain technology** and diving deep into **building backends with Go and Rust**
-- 🔐 Curious about **Web Security** and **Systems Security** — always learning how to build secure and reliable systems
-- 👀 Particularly interested in **backend architecture**, **system scalability**, and **infrastructure automation**
-- 📫 Reach me at **[derentanaphan@mail.ugm.ac.id](mailto:derentanaphan@mail.ugm.ac.id)**  
+Passionate about blockchain, machine learning, and full stack software development. I build scalable, secure, and data-driven systems with a focus on clean code, privacy, and real-world impact. I’m driven to create resilient technologies that prioritize privacy, intelligence, and real-world impact. 
 
 ---
 
