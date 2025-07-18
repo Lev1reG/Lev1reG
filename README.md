@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Deren+Tanaphan;Fullstack+Developer+%F0%9F%9A%80;Backend+%7C+Frontend+%7C+DevOps;Building+scalable+and+secure+systems;Passionate+about+App+Security;Love+coding+with+Go+%26+Rust;Web+Security+%26+Cloud+Computing;Always+learning+new+tech!+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lev1reG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
