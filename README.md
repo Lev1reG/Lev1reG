@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Passionate about software development. I build scalable, secure, and data-driven systems with a focus on clean code, privacy, and real-world impact. I’m driven to create resilient technologies that prioritize privacy, intelligence, and real-world impact.
+Passionate about software development, I craft scalable and secure systems with a focus on clean code, privacy, and performance. Recently, I’ve been deepening my expertise in blockchain and distributed systems, exploring how decentralization and intelligent design can shape the future of technology.
 
 ---
 
