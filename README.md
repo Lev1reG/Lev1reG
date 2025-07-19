@@ -58,4 +58,4 @@ Passionate about software development, I craft scalable and secure systems with 
 ---
 
 <a href='https://ko-fi.com/E1E71I8MCR' target='_blank' rel='noopener noreferrer'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href="https://trakteer.id/levireg" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="50" style="border:0px;height:50px;" alt="Trakteer Saya"></a>
+<a href="https://trakteer.id/levireg" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-2.png?v=14-05-2025" height="50" style="border:0px;height:50px;" alt="Trakteer Saya"></a>
