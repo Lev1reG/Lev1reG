@@ -6,15 +6,32 @@
   <img src="https://komarev.com/ghpvc/?username=Lev1reG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/derentanaphan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/derentanaphan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/450199309447856139">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href='https://ko-fi.com/E1E71I8MCR' target='_blank' rel='noopener noreferrer'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href="https://trakteer.id/levireg" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-2.png?v=14-05-2025" height="50" style="border:0px;height:50px;" alt="Trakteer Saya"></a>
+</p>
+
 ---
 
-## 🚀 About Me
+## Hi, I'm Deren 👋
 
 Passionate about software development, I craft scalable and secure systems with a focus on clean code, privacy, and performance. Recently, I’ve been deepening my expertise in blockchain and distributed systems, exploring how decentralization and intelligent design can shape the future of technology.
 
----
-
-## 🛠 Tech Stack
+## Tools That I Use
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](#)
@@ -41,23 +58,10 @@ Passionate about software development, I craft scalable and secure systems with 
 [![Express.js](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white)](#)
 [![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=flat&logo=Solidity&logoColor=white)](#)
 
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lev1reG" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lev1reG" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lev1reG&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=Lev1reG" alt="GitHub Streak" />
 </p>
-
----
-
-## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/derentanaphan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/derentanaphan_)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/450199309447856139)
-
----
-
-<a href='https://ko-fi.com/E1E71I8MCR' target='_blank' rel='noopener noreferrer'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href="https://trakteer.id/levireg" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-2.png?v=14-05-2025" height="50" style="border:0px;height:50px;" alt="Trakteer Saya"></a>
