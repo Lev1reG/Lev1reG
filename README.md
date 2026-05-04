@@ -29,7 +29,7 @@
 
 ## Hi, I'm Deren 👋
 
-I build secure, scalable infrastructure for AI systems, the engines that make ML reliable. I work across distributed systems, secure inference, and decentralized consensus, approaching hard problems with strong fundamentals and a bias for clean, maintainable engineering.
+Strong fundamentals and system-level thinking guide how I approach problems. I care deeply about clean, maintainable engineering and continuously challenge myself to understand how complex systems operate and how to improve them. Fast-learning and impact-oriented, I’m committed to solving real-world problems where security, scalability, and modern software engineering meet.
 
 ## Tools That I Use
 
