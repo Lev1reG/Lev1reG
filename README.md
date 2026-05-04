@@ -29,7 +29,7 @@
 
 ## Hi, I'm Deren 👋
 
-Strong fundamentals and system-level thinking guide how I approach problems. I care deeply about clean, maintainable engineering and continuously challenge myself to understand how complex systems operate and how to improve them. Fast-learning and impact-oriented, I’m committed to solving real-world problems where security, scalability, and modern software engineering meet.
+Strong fundamentals and system-level thinking guide how I approach problems. I care deeply about clean, maintainable engineering and continuously challenge myself to understand how complex systems operate and how to improve them. Fast-learning and impact-oriented, I’m committed to solving real-world problems where security, scalability, and modern software engineering meet. Currently deepening my work in secure, high-throughput application architecture.
 
 ## Tools That I Use
 
