@@ -29,7 +29,7 @@
 
 ## Hi, I'm Deren 👋
 
-Strong fundamentals and system-level thinking guide how I approach problems. I care deeply about clean, maintainable engineering and continuously challenge myself to understand how complex systems operate and how to improve them. Fast-learning and impact-oriented, I’m committed to solving real-world problems where security, scalability, and modern software engineering meet. Currently deepening my work in high-performance, high-throughput inference systems for AI infrastructure.
+I believe the power of AI only matters if it reaches people quickly, reliably, and efficiently. Coming from a software engineering background, I'm now working on high-performance inference systems, the infrastructure that delivers AI to people efficiently and at scale. I'm exploring how to make serving faster, memory leaner, and execution more efficient, one system at a time.
 
 ## Tools That I Use
 
