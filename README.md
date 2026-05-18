@@ -29,7 +29,7 @@
 
 ## Hi, I'm Deren 👋
 
-I believe the power of AI only matters if it reaches people quickly, reliably, and efficiently. Coming from a software engineering background, I'm now working on high-performance inference systems, the infrastructure that delivers AI to people efficiently and at scale. I'm exploring how to make serving faster, memory leaner, and execution more efficient, one system at a time.
+I believe the power of AI only matters if it reaches people quickly, reliably, and efficiently. Coming from a software engineering background, I'm now working on low-level ML systems, the infrastructure that turns trained models into fast, efficient execution. I'm exploring compilers, runtime systems, and GPU kernels.
 
 ## Tools That I Use
 
