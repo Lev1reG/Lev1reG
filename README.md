@@ -62,6 +62,5 @@ I believe the power of AI only matters if it reaches people quickly, reliably, a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lev1reG" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lev1reG&layout=compact" />
   <img src="https://streak-stats.demolab.com/?user=Lev1reG" alt="GitHub Streak" />
 </p>
